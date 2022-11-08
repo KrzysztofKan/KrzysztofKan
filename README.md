@@ -2,7 +2,7 @@
 - 👀 I’m interested in Videogames and Data Analisys
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anything that could help me improve my skills  
-- 📫 How to reach me 
+- 📫 How to reach me 🤷‍♂️
 
 <!---
 KrzysztofKan/KrzysztofKan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
